@@ -1,7 +1,7 @@
 ---
 title: "Warcraft 3"
 date: 2023-03-22T15:40:17+02:00
-draft: true
+draft: false
 ---
 
 ## Install Guide for Warcraft 3 using [Hamachi](https://vpn.net)

@@ -1,0 +1,4 @@
+baseURL = 'http://codeblins-tutorials.org/'
+languageCode = 'en-us'
+title = 'Codeblins Game Tutorials'
+theme = 'holy'
